@@ -1,0 +1,10 @@
+adminUser:
+  password: local:jxgke4/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: ablazleon@gmail.com
+  token: local:jxgke4/pipelineUser:token
+  username: ablazleon
+prow:
+  hmacToken: local:jxgke4/prow:hmacToken
